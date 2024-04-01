@@ -1,0 +1,110 @@
+export default [
+  {
+    _id: "6557fcb7a11aca237708374b",
+    title: "Propulsion Assignment",
+    course: "RS101",
+    week: "Week 7",
+    starting_date: "2024-01-15",
+    due_date: "2024-02-04",
+    points: 87,
+    due_time: "9:45am",
+    until_date: "2024-02-14",
+    description: "This assignment focuses on the principles of propulsion in aerospace engineering."
+  },
+  {
+    _id: "6557fcb7a11aca237708374c",
+    title: "Combustion Analysis",
+    course: "RS101",
+    week: "Week 3",
+    starting_date: "2024-01-02",
+    due_date: "2024-02-08",
+    points: 52,
+    due_time: "3:22pm",
+    until_date: "2024-02-11",
+    description: "This assignment focuses on the analysis of combustion processes."
+  },
+  {
+    _id: "6557fcb7a11aca237708374d",
+    title: "Nozzle Design Project",
+    course: "RS101",
+    week: "Week 9",
+    starting_date: "2024-01-11",
+    due_date: "2024-01-29",
+    points: 36,
+    due_time: "11:12am",
+    until_date: "2024-02-12",
+    description: "This project involves designing nozzles for aerospace applications."
+  },
+  {
+    _id: "6557fcb7a11aca237708374e",
+    title: "Aerodynamics Quiz",
+    course: "RS102",
+    week: "Week 5",
+    starting_date: "2024-01-05",
+    due_date: "2024-01-27",
+    points: 79,
+    due_time: "4:58pm",
+    until_date: "2024-02-10",
+    description: "This quiz assesses understanding of aerodynamics principles."
+  },
+  {
+    _id: "6557fcb7a11aca237708374f",
+    title: "Flow Analysis",
+    course: "RS102",
+    week: "Week 2",
+    starting_date: "2024-01-09",
+    due_date: "2024-02-02",
+    points: 68,
+    due_time: "1:37pm",
+    until_date: "2024-02-10",
+    description: "This assignment involves analyzing fluid flow in aerospace applications."
+  },
+  {
+    _id: "6557fcb7a11aca2377083750",
+    title: "Heating Analysis",
+    course: "RS102",
+    week: "Week 8",
+    starting_date: "2024-01-14",
+    due_date: "2024-02-06",
+    points: 91,
+    due_time: "10:24am",
+    until_date: "2024-02-12",
+    description: "This assignment focuses on analyzing heat transfer in aerospace systems."
+  },
+  {
+    _id: "6557fcb7a11aca2377083751",
+    title: "Structural Design Task",
+    course: "RS103",
+    week: "Week 4",
+    starting_date: "2024-01-17",
+    due_date: "2024-01-28",
+    points: 24,
+    due_time: "8:33am",
+    until_date: "2024-02-12",
+    description: "This task involves designing structures for aerospace vehicles."
+  },
+  {
+    _id: "6557fcb7a11aca2377083752",
+    title: "Orbital Calculations",
+    course: "RS103",
+    week: "Week 6",
+    starting_date: "2024-01-06",
+    due_date: "2024-01-31",
+    points: 42,
+    due_time: "12:09pm",
+    until_date: "2024-02-10",
+    description: "This assignment involves calculations related to orbital mechanics."
+  },
+  {
+    _id: "6557fcb7a11aca2377083753",
+    title: "Systems Engineering Exam",
+    course: "RS103",
+    week: "Week 1",
+    starting_date: "2024-01-24",
+    due_date: "2024-02-05",
+    points: 55,
+    due_time: "6:57pm",
+    until_date: "2024-02-15",
+    description: "This exam assesses understanding of systems engineering principles in aerospace."
+  }
+];
