@@ -10,8 +10,9 @@ import AssignmentRoutes from './Kanbas/assignments/routes.js';
 import session from 'express-session';
 import "dotenv/config";
 const app = express()
+const CONNECTION_STRING = process.env.DB_CONNECTION_STRING || 'mongodb://localhost:27017/kanbas'
 
-mongoose.connect('mongodb://localhost:27017/kanbas');
+mongoose.connect(CONNECTION_STRING);
 
 app.use(cors({
     credentials : true,
